@@ -1,8 +1,5 @@
 ## Hi there, my name's Alan 👋
 
-<!--
-**alan-dx/alan-dx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 *I'm a rising programmer* :rocket:
 
 Things I like to do:
