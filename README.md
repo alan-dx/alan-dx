@@ -2,6 +2,8 @@
 
 *I'm a rising programmer* :rocket:
 
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=alan-dx&show_icons=true&hide_border=false&count_private=true&theme=graywhite)
+
 Things I like to do:
 - :art: User Interfaces
 - :computer: Web Applications
@@ -17,7 +19,4 @@ About me:
 - 👯 I’m looking to collaborate on projects that can impact people's lives
 - 💬 Ask me about anything. I will help as i can 
 - 📫 How to contact me : [My E-mail](contato.almeidadev@gmail.com)
-
-
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=alan-dx&show_icons=true&hide_border=false&count_private=true&theme=graywhite)
 ---
