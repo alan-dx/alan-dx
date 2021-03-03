@@ -1,6 +1,6 @@
 ## Hi there, my name's Alan 👋
 
-*I'm a rising programmer* :rocket:
+- **I'm a rising programmer** :rocket:
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=alan-dx&show_icons=true&hide_border=false&count_private=true&theme=graywhite)
 
