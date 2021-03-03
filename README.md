@@ -19,5 +19,5 @@ About me:
 - 📫 How to contact me : [My E-mail](contato.almeidadev@gmail.com)
 
 
-[!GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=alan-dx&show_icons=true&hide_border=false&count_private=true&theme=graywhite)
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=alan-dx&show_icons=true&hide_border=false&count_private=true&theme=graywhite)
 ---
