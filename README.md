@@ -2,7 +2,7 @@
 
 - **I'm a rising programmer** :rocket:
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=alan-dx&show_icons=true&hide_border=false&count_private=true&theme=graywhite)
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=alan-dx&show_icons=true&hide_border=false&count_private=true&theme=graywhite)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-dx&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 Things I like to do:
 - :art: User Interfaces
