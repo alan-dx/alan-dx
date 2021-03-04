@@ -20,5 +20,5 @@ About me:
 - 💬 Ask me about anything. I will help as i can 
 - 📫 How to contact me : [My E-mail](contato.almeidadev@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-dx&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-dx&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)-->
 ---
