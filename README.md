@@ -4,8 +4,6 @@
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=alan-dx&show_icons=true&hide_border=false&count_private=true&theme=graywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-dx&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
 Things I like to do:
 - :art: User Interfaces
 - :computer: Web Applications
@@ -21,4 +19,6 @@ About me:
 - 👯 I’m looking to collaborate on projects that can impact people's lives
 - 💬 Ask me about anything. I will help as i can 
 - 📫 How to contact me : [My E-mail](contato.almeidadev@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-dx&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 ---
