@@ -14,6 +14,7 @@ About me:
 
 - 🔭 I am currently working in self projects and freelancer jobs, but I am looking for new challenges :zap:
 - 🌱 I’m currently learning ReactJS, React Native, NodeJS and Python
+- - :iphone: See some of my projects published on [Google Play](https://play.google.com/store/apps/developer?id=AlmeidaDev)
 - :mortar_board: Graduating electrical engineering
 - :rocket: Student of the 1st class of Ignite (by [@Rocketseat](https://github.com/Rocketseat))
 - 👯 I’m looking to collaborate on projects that can impact people's lives
